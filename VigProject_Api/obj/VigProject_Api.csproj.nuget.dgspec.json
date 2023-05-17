@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CompletedProject\\Completed Working\\tech-On-Study\\Working Projects\\LiveApiProject\\VigProject_Api\\VigProject_Api\\VigProject_Api.csproj": {}
+    "C:\\Users\\main\\Desktop\\New folder\\TECHNOSTUDYAPI\\VigProject_Api\\VigProject_Api.csproj": {}
   },
   "projects": {
-    "D:\\CompletedProject\\Completed Working\\tech-On-Study\\Working Projects\\LiveApiProject\\VigProject_Api\\VigProject_Api\\VigProject_Api.csproj": {
+    "C:\\Users\\main\\Desktop\\New folder\\TECHNOSTUDYAPI\\VigProject_Api\\VigProject_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CompletedProject\\Completed Working\\tech-On-Study\\Working Projects\\LiveApiProject\\VigProject_Api\\VigProject_Api\\VigProject_Api.csproj",
+        "projectUniqueName": "C:\\Users\\main\\Desktop\\New folder\\TECHNOSTUDYAPI\\VigProject_Api\\VigProject_Api.csproj",
         "projectName": "VigProject_Api",
-        "projectPath": "D:\\CompletedProject\\Completed Working\\tech-On-Study\\Working Projects\\LiveApiProject\\VigProject_Api\\VigProject_Api\\VigProject_Api.csproj",
-        "packagesPath": "C:\\Users\\Vipin\\.nuget\\packages\\",
-        "outputPath": "D:\\CompletedProject\\Completed Working\\tech-On-Study\\Working Projects\\LiveApiProject\\VigProject_Api\\VigProject_Api\\obj\\",
+        "projectPath": "C:\\Users\\main\\Desktop\\New folder\\TECHNOSTUDYAPI\\VigProject_Api\\VigProject_Api.csproj",
+        "packagesPath": "C:\\Users\\main\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\main\\Desktop\\New folder\\TECHNOSTUDYAPI\\VigProject_Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vipin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\main\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }

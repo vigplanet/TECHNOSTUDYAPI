@@ -1,0 +1,163 @@
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.Development.json
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.json
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.exe
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.deps.json
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.json
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.dev.json
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\ref\VigProject_Api.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.pdb
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\System.Data.SqlClient.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csprojAssemblyReference.cache
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfoInputs.cache
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfo.cs
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CoreCompileInputs.cache
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cs
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cache
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.Manifest.cache
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.xml
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\scopedcss\bundle\VigProject_Api.styles.css
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.RazorTargetAssemblyInfo.cache
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CopyComplete
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\ref\VigProject_Api.dll
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.pdb
+E:\CompletedProject\VIG_PLANET_PROJECT\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.genruntimeconfig.cache
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.Development.json
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.json
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.exe
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.deps.json
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.json
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.dev.json
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\ref\VigProject_Api.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.pdb
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\System.Data.SqlClient.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfoInputs.cache
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfo.cs
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CoreCompileInputs.cache
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cs
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cache
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.Manifest.cache
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.xml
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\scopedcss\bundle\VigProject_Api.styles.css
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.RazorTargetAssemblyInfo.cache
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CopyComplete
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\ref\VigProject_Api.dll
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.pdb
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.genruntimeconfig.cache
+E:\CompletedProject\Completed Working\GYM Book\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.AssemblyReference.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.Development.json
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.json
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.exe
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.deps.json
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.json
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.dev.json
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\ref\VigProject_Api.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.pdb
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\System.Data.SqlClient.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.AssemblyReference.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfoInputs.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfo.cs
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CoreCompileInputs.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cs
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.Manifest.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.xml
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\scopedcss\bundle\VigProject_Api.styles.css
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.RazorTargetAssemblyInfo.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CopyComplete
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\ref\VigProject_Api.dll
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.pdb
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.genruntimeconfig.cache
+E:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Json.Net.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.Development.json
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\appsettings.json
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.exe
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.deps.json
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.json
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.runtimeconfig.dev.json
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\ref\VigProject_Api.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\VigProject_Api.pdb
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\AWSSDK.Core.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\AWSSDK.S3.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Dapper.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Json.Net.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfoInputs.cache
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.AssemblyInfo.cs
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CoreCompileInputs.cache
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.Manifest.cache
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\staticwebassets\VigProject_Api.StaticWebAssets.xml
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\scopedcss\bundle\VigProject_Api.styles.css
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.RazorTargetAssemblyInfo.cache
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.CopyComplete
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\ref\VigProject_Api.dll
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.pdb
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.genruntimeconfig.cache
+D:\CompletedProject\Completed Working\tech-On-Study\Working Projects\LiveApiProject\VigProject_Api\VigProject_Api\obj\Release\net5.0\VigProject_Api.csproj.AssemblyReference.cache
